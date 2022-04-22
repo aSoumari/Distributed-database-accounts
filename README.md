@@ -1,2 +1,4 @@
 # Base de données distribuée
-<img src="/results_img/tsnme.PNG" alt="Employee data" title="Employee Data title">
+<div style="width:60px ; height:60px">
+![Employee data](/results_img/tsnme.PNG?raw=true "Employee Data title")
+<div>
