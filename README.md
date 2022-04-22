@@ -1,2 +1,2 @@
 # Base de données distribuée
-<img src="/results_img/tsnme.PNG" height="60" width="60" alt="...." >
+<img src="/results_img/tsnme.PNG" height="180" width="180" alt="...." >
