@@ -1,6 +1,6 @@
 # Distributed database
 
-Creation of not federated distributed database from a local database in Rabat we used fragmentation.
+Creating the distributed database based on a tow database first in Rabat and the second in Casa using fragmentation and other technics.
 We maintain the Acidity and Synchronization of data using  the  triggers on different site also with the help of Transaction locking and others functionalities provided by oracle.
 ## Overview schema of our distributed DB
 
