@@ -5,7 +5,7 @@ We maintain the Acidity and Synchronization of data using  the  triggers on diff
 ## Overview schema of our distributed DB
 
 <figure>
-  <img src="/results_img/tsnme.PNG" alt="titople" title="Optional title" />
+  <img src="/results_img/schm.PNG" alt="titople" title="Optional title" />
   <figcaption>Listener Configuration</figcaption>
 </figure>
 
@@ -24,7 +24,7 @@ We maintain the Acidity and Synchronization of data using  the  triggers on diff
   <figcaption>Listener Configuration</figcaption>
 </figure>
 <figure>
-  <img src="/results_img/tsnme.PNG" alt="titople" title="Optional title" />
+  <img src="/results_img/listner.PNG" alt="titople" title="Optional title" />
   <figcaption>Listener Configuration</figcaption>
 </figure>
 
